@@ -225,35 +225,74 @@ namespace ListTest
             Colletions.LinkedList<String> strsList = new Colletions.LinkedList<String>();
             Colletions.LinkedList<Persona> personsList = new Colletions.LinkedList<Persona>();
 
-            //Adding doubles
+            //GENERAL TEST FOR DOUBLES
             for (int i=0; i<50; i++) {
-                doublesList.add((double) i);
-                Assert.AreEqual((double) i, doublesList.get(i));//get
+                doublesList.add((double) i); //add double
+                strsList.add(i.ToString()); //add string
+                Persona auxP = new Persona(i.ToString());
+                personsList.add(auxP); // add persons
+
+                Assert.AreEqual((double) i, doublesList.get(i));//get double
+                Assert.AreEqual(i.ToString(), strsList.get(i));//get string
+                Assert.AreEqual(auxP, personsList.get(i)); //get person
+
+
                 Assert.AreEqual(i, doublesList.indexOf((double) i));//index of a double
+                Assert.AreEqual(i, strsList.indexOf(i.ToString()));//index of a string
+                Assert.AreEqual(i, personsList.indexOf(auxP));// index of a person
+
                 Assert.AreEqual(true, doublesList.contains((double) i));//contains double?
+                Assert.AreEqual(true, strsList.contains(i.ToString()));//contains string?
+                Assert.AreEqual(true, personsList.contains(auxP));//contains person?
             }
             Assert.AreEqual(50, doublesList.size());
+            Assert.AreEqual(50, strsList.size());
+            Assert.AreEqual(50, personsList.size());
+
 
             //removing doubles
             for (int i=0; i<50; i++) {
+                Persona auxP = new Persona(i.ToString());
                 Assert.AreEqual((double) i, doublesList.remove((double) i));
+                Assert.AreEqual(i.ToString(), strsList.remove(i.ToString()));
+                Assert.AreEqual(auxP, personsList.remove(auxP));
             }
             Assert.AreEqual(0, doublesList.size());
+            Assert.AreEqual(0, strsList.size());
+            Assert.AreEqual(0, personsList.size());
 
-            //removing doubles by position
+            //removing by position
+            Persona p1 = new Persona("dni1");
+            Persona p2 = new Persona("dni2");
+
             doublesList.add(1.0);
             doublesList.add(2.0);
+            strsList.add("texto1");
+            strsList.add("texto2");
+            personsList.add(p1);
+            personsList.add(p2);
 
             Assert.AreEqual(1.0, doublesList.removeByIndex(0));
             Assert.AreEqual(2.0, doublesList.removeByIndex(0));
+            Assert.AreEqual("texto1", strsList.removeByIndex(0));
+            Assert.AreEqual("texto2", strsList.removeByIndex(0));
+            Assert.AreEqual(p1, personsList.removeByIndex(0));
+            Assert.AreEqual(p2, personsList.removeByIndex(0));
         }
 
     }
 
     //Inner class only for testing reasons
     class Persona {
-        public String name { get; protected internal set;}
         public String dni { get; protected internal set; }
-        public int age { get; protected internal set; }
+        public Persona(String elDNI){
+            dni = elDNI;
+        }
+
+        public override bool Equals(object obj)
+        {
+            Persona p = obj as Persona;
+            return dni.Equals(p.dni);
+        }
     }
 }
