@@ -1,0 +1,8 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\bin\Debug\Circunferencia.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\bin\Debug\Circunferencia.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\bin\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\bin\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\bin\Debug\Geometria.xml
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\obj\Debug\Circunferencia.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\obj\Debug\Circunferencia.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\Circunferencia\obj\Debug\Circunferencia.pdb

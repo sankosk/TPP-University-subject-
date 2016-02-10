@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Geometria</name>
+    </assembly>
+    <members>
+        <member name="T:Practica1.Punto2d">
+            <summary>
+            Clase para representar un punto en un espacio 2D
+            </summary>
+        </member>
+        <member name="M:Practica1.Punto2d.#ctor(System.Double,System.Double,Practica1.Color)">
+            <summary>
+            Constructor con parametros
+            </summary>
+            <param name="laX">Punto x en el espacio euclideo</param>
+            <param name="laY">Punto y en el espacio euclideo</param>
+            <param name="elColor">Color, tipo enumerado donde definiremos el color</param>
+        </member>
+        <member name="M:Practica1.Punto2d.distancia(Practica1.Punto2d)">
+            <summary>
+            Distancia entre 2 puntos
+            </summary>
+            <param name="a">Punto al que llegar</param>
+            <returns></returns>
+        </member>
+        <member name="M:Practica1.Punto2d.ToString">
+            <summary>
+            Método toString que mostrará la información genérica de la Clase
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Practica1.Recta.m">
+            <summary>
+            Atributo para definir m en la ecuacion de la recta
+            </summary>
+        </member>
+        <member name="P:Practica1.Recta.n">
+            <summary>
+            Atributo para definir n en la ecuación de la recta
+            </summary>
+        </member>
+        <member name="M:Practica1.Recta.#ctor(System.Double,System.Double)">
+            <summary>
+            Constructor con parametros para la Recta
+            </summary>
+            <param name="m">punto origen, Valor doble</param>
+            <param name="n">punto destino, Valor doble</param>
+        </member>
+        <member name="M:Practica1.Recta.interseccionRecta(Practica1.Recta)">
+            <summary>
+            Método para calcular el punto en el que se produce la intersección de una recta
+            </summary>
+            <param name="b">Recta a intersectar</param>
+            <returns>Un punto</returns>
+        </member>
+        <member name="M:Practica1.Recta.perpendicular(Practica1.Punto2d)">
+            <summary>
+            Método para calcular la perpendicular de un punto, devuelve una recta(perpendicular)
+            </summary>
+            <param name="punto">Punto desde el que se obtiene la recta perpendicular</param>
+            <returns>Una recta</returns>
+        </member>
+        <member name="M:Practica1.Recta.distanciaEntreRectaYPunto(Practica1.Punto2d)">
+            <summary>
+            Método para calcular la distancia entre una recta y un punto
+            </summary>
+            <param name="a">a es el Punto desde el que se calculara la distancia hacia la recta, para ello hacemos uso
+            de los anteriores métodos
+            </param>
+            <returns>Retorna un valor doble, que será la distancia entre dicha recta y punto</returns>
+        </member>
+        <member name="M:Practica1.Recta.ToString">
+            <summary>
+            Método redefinido para mostrar la información de la clase como nosotros gustemos o requiramos
+            </summary>
+            <returns>Devuelve un String</returns>
+        </member>
+        <member name="M:Practica1.Recta.Finalize">
+            <summary>
+            Destructor que liberara la memoria, en este caso no es muy util puesto que no tenemos recursos suficientes para usarlo
+            Igualmente, es un ejemplo de uso
+            </summary>
+        </member>
+        <member name="T:Practica1.Color">
+            <summary>
+            Enumerado donde definimos los colores disponibles para nuestras formas geométricas
+            </summary>
+        </member>
+        <member name="F:Practica1.Color.Transparente">
+            <summary>
+            Color transparente
+            </summary>
+        </member>
+        <member name="F:Practica1.Color.Negro">
+            <summary>
+            Color negro
+            </summary>
+        </member>
+        <member name="F:Practica1.Color.Rojo">
+            <summary>
+            Color rojo
+            </summary>
+        </member>
+    </members>
+</doc>

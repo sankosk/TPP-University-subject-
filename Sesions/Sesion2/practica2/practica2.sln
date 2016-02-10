@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practica2", "practica2\practica2.csproj", "{59DEB0E7-E722-4E96-A9ED-0AA3FCEBC5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria", "..\..\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\Geometria.csproj", "{9841792F-EC2C-4380-98E2-8B1F661A8437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntExtension", "IntExtension\IntExtension.csproj", "{B127E752-EE8A-40CA-81E3-BD90465C5396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsComplejos", "TestsComplejos\TestsComplejos.csproj", "{1CBD776D-6073-45CF-9168-E38AD8F5EED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circunferencia", "Circunferencia\Circunferencia.csproj", "{3AC2BF07-B808-40E6-A81F-4126ADD06485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsoCircunferencia", "UsoCircunferencia\UsoCircunferencia.csproj", "{CFC17B7C-373C-4953-B119-62371427287E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intExtensionTests", "intExtensionTests\intExtensionTests.csproj", "{36907765-8B1A-41FF-8ADA-A68270DBAFD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DEB0E7-E722-4E96-A9ED-0AA3FCEBC5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DEB0E7-E722-4E96-A9ED-0AA3FCEBC5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DEB0E7-E722-4E96-A9ED-0AA3FCEBC5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DEB0E7-E722-4E96-A9ED-0AA3FCEBC5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B127E752-EE8A-40CA-81E3-BD90465C5396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B127E752-EE8A-40CA-81E3-BD90465C5396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B127E752-EE8A-40CA-81E3-BD90465C5396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B127E752-EE8A-40CA-81E3-BD90465C5396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CBD776D-6073-45CF-9168-E38AD8F5EED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CBD776D-6073-45CF-9168-E38AD8F5EED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CBD776D-6073-45CF-9168-E38AD8F5EED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CBD776D-6073-45CF-9168-E38AD8F5EED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC2BF07-B808-40E6-A81F-4126ADD06485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC2BF07-B808-40E6-A81F-4126ADD06485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC2BF07-B808-40E6-A81F-4126ADD06485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC2BF07-B808-40E6-A81F-4126ADD06485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC17B7C-373C-4953-B119-62371427287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC17B7C-373C-4953-B119-62371427287E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC17B7C-373C-4953-B119-62371427287E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC17B7C-373C-4953-B119-62371427287E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36907765-8B1A-41FF-8ADA-A68270DBAFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36907765-8B1A-41FF-8ADA-A68270DBAFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36907765-8B1A-41FF-8ADA-A68270DBAFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36907765-8B1A-41FF-8ADA-A68270DBAFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

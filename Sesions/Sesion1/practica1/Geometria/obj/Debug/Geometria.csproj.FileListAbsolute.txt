@@ -1,0 +1,17 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\Geometria\bin\Debug\Geometria.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\Geometria\bin\Debug\Geometria.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\Geometria\obj\Debug\Geometria.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\Geometria\obj\Debug\Geometria.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\Geometria\bin\Debug\Geometria.XML
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\bin\Debug\Geometria.XML
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\bin\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\bin\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\obj\Debug\Geometria.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\obj\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Desktop\practica1\Geometria\obj\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\bin\Debug\Geometria.XML
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\bin\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\bin\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\obj\Debug\Geometria.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\obj\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\Geometria\obj\Debug\Geometria.pdb

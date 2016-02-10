@@ -1,0 +1,27 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\Geometria.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\Geometria.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\practica1\pruebaGeometria\bin\Debug\Geometria.xml
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe.config
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.exe
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.pdb
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.pdb
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\bin\Debug\Geometria.xml
+C:\Users\EstebanMontesMorales\Desktop\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\pruebaGeometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\Geometria.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\Geometria.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\bin\Debug\Geometria.xml
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea1-TPP-EstebanMontesMorales\practica1\pruebaGeometria\obj\Debug\pruebaGeometria.csprojResolveAssemblyReference.cache

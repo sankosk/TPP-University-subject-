@@ -1,0 +1,6 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\bin\Debug\UsoCircunferencia.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\bin\Debug\UsoCircunferencia.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\bin\Debug\UsoCircunferencia.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\obj\Debug\UsoCircunferencia.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\obj\Debug\UsoCircunferencia.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\UsoCircunferencia\obj\Debug\UsoCircunferencia.pdb

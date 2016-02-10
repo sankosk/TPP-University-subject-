@@ -1,0 +1,10 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Colletions\Colletions\bin\Debug\Colletions.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Colletions\Colletions\bin\Debug\Colletions.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Colletions\Colletions\obj\Debug\Colletions.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Colletions\Colletions\obj\Debug\Colletions.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Colletions\Colletions\obj\Debug\Colletions.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Documents\Visual Studio 2013\Projects\Colletions\Colletions\bin\Debug\Colletions.dll
+C:\Users\Esteban\Documents\Visual Studio 2013\Projects\Colletions\Colletions\bin\Debug\Colletions.pdb
+C:\Users\Esteban\Documents\Visual Studio 2013\Projects\Colletions\Colletions\obj\Debug\Colletions.dll
+C:\Users\Esteban\Documents\Visual Studio 2013\Projects\Colletions\Colletions\obj\Debug\Colletions.pdb
+C:\Users\Esteban\Documents\Visual Studio 2013\Projects\Colletions\Colletions\obj\Debug\Colletions.csprojResolveAssemblyReference.cache

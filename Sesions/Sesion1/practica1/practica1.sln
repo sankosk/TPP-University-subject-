@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria", "Geometria\Geometria.csproj", "{9841792F-EC2C-4380-98E2-8B1F661A8437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebaGeometria", "pruebaGeometria\pruebaGeometria.csproj", "{BA120826-E448-4278-86B5-C7410CD02C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9841792F-EC2C-4380-98E2-8B1F661A8437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA120826-E448-4278-86B5-C7410CD02C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA120826-E448-4278-86B5-C7410CD02C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA120826-E448-4278-86B5-C7410CD02C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA120826-E448-4278-86B5-C7410CD02C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

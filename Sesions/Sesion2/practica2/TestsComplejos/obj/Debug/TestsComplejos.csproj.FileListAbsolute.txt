@@ -1,0 +1,12 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\PracticasTPP\practica2\TestsComplejos\bin\Debug\TestsComplejos.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\PracticasTPP\practica2\TestsComplejos\bin\Debug\TestsComplejos.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\bin\Debug\TestsComplejos.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\bin\Debug\TestsComplejos.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\PracticasTPP\practica2\TestsComplejos\obj\Debug\TestsComplejos.pdb
