@@ -34,7 +34,7 @@ namespace Colletions
             return node;
         }
 
-        public void add(T value){
+        public virtual void add(T value){
             if (isEmpty())
                 head = new Node<T>(value, null);
             else{
@@ -93,7 +93,7 @@ namespace Colletions
             return (counter==0);
         }
 
-        public T remove(T value){
+        public virtual T remove(T value){
             Node<T> currentNode = null;
             if (size() != 0)
             {
@@ -180,5 +180,9 @@ namespace Colletions
             }
             return false;
         }
+
+        //public T[] getAll() {
+            //return (from i in Enumerable.Range(0, this.size()).ToArray() select getNode(i)).ToArray();
+        //}
     }
 }
