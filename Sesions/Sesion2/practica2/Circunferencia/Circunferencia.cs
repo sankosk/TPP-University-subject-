@@ -17,26 +17,23 @@ namespace Circunferencia
         }
 
         public Circunferencia tangenteCentro(Punto2d punto){
-
+            //Recta r = new Recta(centro.x, centro.y);
+            //r.perpendicular(punto);
             return null;
         }
 
         public static Circunferencia operator<(Circunferencia a, Circunferencia b){
-            return new Circunferencia(new Punto2d(10,20, Color.Negro), 15);
+            return null;
         }
 
         public static Circunferencia operator >(Circunferencia a, Circunferencia b){
-            return new Circunferencia(new Punto2d(10, 20, Color.Negro), 15);
+            return null;
         }
 
 
         ~Circunferencia() {
             Console.WriteLine("Se ha ejecutado el destructor de la clase Circunferencia");
         }
-
-
-        //public static Complejo operator+(Complejo a, Complejo b){
-
 
     }
 }
