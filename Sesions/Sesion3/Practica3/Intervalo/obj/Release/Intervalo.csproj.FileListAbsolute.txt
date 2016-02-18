@@ -1,0 +1,4 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\bin\Release\Intervalo.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\bin\Release\Intervalo.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\obj\Release\Intervalo.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\obj\Release\Intervalo.pdb

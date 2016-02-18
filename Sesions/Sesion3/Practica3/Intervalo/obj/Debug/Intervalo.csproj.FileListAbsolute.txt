@@ -1,0 +1,9 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\bin\Debug\Intervalo.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\obj\Debug\Intervalo.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Intervalo\obj\Debug\Intervalo.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Intervalo\bin\Debug\Intervalo.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Intervalo\obj\Debug\Intervalo.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Intervalo\obj\Debug\Intervalo.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Intervalo\obj\Debug\Intervalo.pdb

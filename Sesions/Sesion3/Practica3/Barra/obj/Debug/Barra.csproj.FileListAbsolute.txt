@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\bin\Debug\Barra.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\bin\Debug\Barra.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\bin\Debug\Intervalo.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\bin\Debug\Intervalo.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\obj\Debug\Barra.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\obj\Debug\Barra.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\Barra\obj\Debug\Barra.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Barra\obj\Debug\Barra.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Barra\obj\Debug\Barra.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\Barra\obj\Debug\Barra.pdb

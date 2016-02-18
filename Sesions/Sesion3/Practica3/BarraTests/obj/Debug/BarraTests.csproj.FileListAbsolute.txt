@@ -1,0 +1,11 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\BarraTests\bin\Debug\BarraTests.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\BarraTests\bin\Debug\BarraTests.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\BarraTests\obj\Debug\BarraTests.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\BarraTests\obj\Debug\BarraTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\bin\Debug\BarraTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\bin\Debug\BarraTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\obj\Debug\BarraTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\obj\Debug\BarraTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\BarraTests\obj\Debug\BarraTests.pdb

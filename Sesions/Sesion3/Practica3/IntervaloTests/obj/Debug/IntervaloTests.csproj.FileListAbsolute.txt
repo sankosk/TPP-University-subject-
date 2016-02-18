@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica3\IntervaloTests\obj\Debug\IntervaloTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\IntervaloTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\IntervaloTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\Intervalo.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\Intervalo.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\obj\Debug\IntervaloTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\obj\Debug\IntervaloTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica3\IntervaloTests\obj\Debug\IntervaloTests.pdb

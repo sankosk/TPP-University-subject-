@@ -1,0 +1,16 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
