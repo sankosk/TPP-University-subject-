@@ -1,0 +1,15 @@
+c:\users\esteban\documents\visual studio 2015\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.dll
+c:\users\esteban\documents\visual studio 2015\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.pdb
+c:\users\esteban\documents\visual studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.csprojResolveAssemblyReference.cache
+c:\users\esteban\documents\visual studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.dll
+c:\users\esteban\documents\visual studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica5\HyperbolicFunctions\bin\Debug\HyperbolicFunctions.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica5\HyperbolicFunctions\obj\Debug\HyperbolicFunctions.pdb

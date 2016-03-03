@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Algorithms\obj\Debug\Algorithms.pdb

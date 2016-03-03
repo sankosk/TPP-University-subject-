@@ -1,0 +1,7 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\bin\Debug\IListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\bin\Debug\IListTest.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\obj\Debug\IListTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\obj\Debug\IListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\vector.test\IListTest\obj\Debug\IListTest.pdb

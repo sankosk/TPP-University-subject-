@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Par\bin\Debug\Par.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Par\bin\Debug\Par.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Par\obj\Debug\Par.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Par\obj\Debug\Par.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Par\obj\Debug\Par.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Par\bin\Debug\Par.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Par\bin\Debug\Par.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Par\obj\Debug\Par.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Par\obj\Debug\Par.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Par\obj\Debug\Par.pdb

@@ -1,0 +1,5 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TareaUtils\bin\Debug\TareaUtils.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TareaUtils\bin\Debug\TareaUtils.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TareaUtils\obj\Debug\HWUtils.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TareaUtils\obj\Debug\TareaUtils.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TareaUtils\obj\Debug\TareaUtils.pdb

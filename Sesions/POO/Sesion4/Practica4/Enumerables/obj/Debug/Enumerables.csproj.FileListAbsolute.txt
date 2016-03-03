@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Enumerables\bin\Debug\Enumerables.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Enumerables\bin\Debug\Enumerables.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Enumerables\obj\Debug\Enumerables.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Enumerables\obj\Debug\Enumerables.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\Enumerables\obj\Debug\Enumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Enumerables\bin\Debug\Enumerables.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Enumerables\bin\Debug\Enumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Enumerables\obj\Debug\Enumerables.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Enumerables\obj\Debug\Enumerables.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\Enumerables\obj\Debug\Enumerables.pdb

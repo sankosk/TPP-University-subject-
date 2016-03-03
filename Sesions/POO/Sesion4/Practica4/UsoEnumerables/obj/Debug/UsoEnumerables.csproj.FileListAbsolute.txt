@@ -1,0 +1,16 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\bin\Debug\Enumerables.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\bin\Debug\Enumerables.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\bin\Debug\UsoEnumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\bin\Debug\Enumerables.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\bin\Debug\Enumerables.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica4\UsoEnumerables\obj\Debug\UsoEnumerables.csprojResolveAssemblyReference.cache
