@@ -1,0 +1,15 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Esteban\Desktop\Practica6\ConsoleApplication2\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Practica6\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\EstebanMontesMorales\Desktop\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\EstebanMontesMorales\Desktop\Practica6\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
