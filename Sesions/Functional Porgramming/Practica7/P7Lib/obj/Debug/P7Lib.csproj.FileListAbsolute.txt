@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\P7Lib\bin\Debug\P7Lib.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\P7Lib\bin\Debug\P7Lib.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\P7Lib\obj\Debug\P7Lib.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\P7Lib\obj\Debug\P7Lib.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\P7Lib\obj\Debug\P7Lib.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Practica7\P7Lib\bin\Debug\P7Lib.dll
+C:\Users\EstebanMontesMorales\Desktop\Practica7\P7Lib\bin\Debug\P7Lib.pdb
+C:\Users\EstebanMontesMorales\Desktop\Practica7\P7Lib\obj\Debug\P7Lib.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Practica7\P7Lib\obj\Debug\P7Lib.dll
+C:\Users\EstebanMontesMorales\Desktop\Practica7\P7Lib\obj\Debug\P7Lib.pdb

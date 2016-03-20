@@ -1,0 +1,16 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\bin\Debug\AppP7.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\bin\Debug\AppP7.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\bin\Debug\AppP7.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\bin\Debug\P7Lib.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\bin\Debug\P7Lib.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\obj\Debug\AppP7.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\obj\Debug\AppP7.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Practica7\AppP7\obj\Debug\AppP7.pdb
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\bin\Debug\AppP7.exe.config
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\obj\Debug\AppP7.exe
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\obj\Debug\AppP7.pdb
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\bin\Debug\AppP7.exe
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\bin\Debug\AppP7.pdb
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\bin\Debug\P7Lib.dll
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\bin\Debug\P7Lib.pdb
+C:\Users\EstebanMontesMorales\Desktop\Practica7\AppP7\obj\Debug\AppP7.csprojResolveAssemblyReference.cache

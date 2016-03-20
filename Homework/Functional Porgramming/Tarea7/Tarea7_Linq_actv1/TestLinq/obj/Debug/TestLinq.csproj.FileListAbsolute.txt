@@ -1,0 +1,7 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\bin\Debug\TestLinq.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\bin\Debug\TestLinq.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\obj\Debug\TestLinq.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\obj\Debug\TestLinq.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Tarea5\TestLinq\obj\Debug\TestLinq.pdb

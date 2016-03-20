@@ -1,0 +1,27 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\SetTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\SetTest.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\obj\Debug\SetTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\obj\Debug\SetTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\SetTest\obj\Debug\SetTest.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\SetTest.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\SetTest.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\obj\Debug\SetTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\obj\Debug\SetTest.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\SetTest\obj\Debug\SetTest.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\SetTest.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\SetTest.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\obj\Debug\SetTest.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\obj\Debug\SetTest.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\SetTest\obj\Debug\SetTest.pdb
