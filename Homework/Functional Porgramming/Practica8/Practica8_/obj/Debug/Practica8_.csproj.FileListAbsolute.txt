@@ -1,0 +1,6 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\bin\Debug\Practica8_.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\bin\Debug\Practica8_.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\bin\Debug\Practica8_.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\obj\Debug\Practica8_.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\obj\Debug\Practica8_.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Practica8\Practica8_\obj\Debug\Practica8_.pdb
