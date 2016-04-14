@@ -1,0 +1,20 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\AppExamen.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\AppExamen.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\AppExamen.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\ModeloExamen.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\Extensores.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\ModeloExamen.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\bin\Debug\Extensores.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\obj\Debug\AppExamen.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\obj\Debug\AppExamen.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\AppExamen\obj\Debug\AppExamen.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\AppExamen.exe.config
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\obj\Debug\AppExamen.exe
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\obj\Debug\AppExamen.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\AppExamen.exe
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\AppExamen.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\ModeloExamen.dll
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\Extensores.dll
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\ModeloExamen.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\bin\Debug\Extensores.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\AppExamen\obj\Debug\AppExamen.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Examen\bin\Debug\Examen.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache

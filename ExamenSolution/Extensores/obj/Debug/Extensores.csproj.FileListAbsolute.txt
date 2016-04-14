@@ -1,0 +1,10 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Extensores\bin\Debug\Extensores.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Extensores\bin\Debug\Extensores.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Extensores\obj\Debug\Extensores.dll
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Extensores\obj\Debug\Extensores.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\ExamenSolution\Extensores\obj\Debug\Extensores.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\Extensores\bin\Debug\Extensores.dll
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\Extensores\bin\Debug\Extensores.pdb
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\Extensores\obj\Debug\Extensores.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\Extensores\obj\Debug\Extensores.dll
+C:\Users\EstebanMontesMorales\Desktop\ExamenSolution\Extensores\obj\Debug\Extensores.pdb
