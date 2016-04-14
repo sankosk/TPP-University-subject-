@@ -1,0 +1,45 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\StackTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\obj\Debug\StackTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\obj\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\StackTests\obj\Debug\StackTests.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\StackTests.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\obj\Debug\StackTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\obj\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\StackTests\obj\Debug\StackTests.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\StackTests.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\StackTests.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\obj\Debug\StackTests.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\obj\Debug\StackTests.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\StackTests\obj\Debug\StackTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\StackTests.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\StackTests.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\StackTests.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\StackTests\obj\Debug\StackTests.pdb

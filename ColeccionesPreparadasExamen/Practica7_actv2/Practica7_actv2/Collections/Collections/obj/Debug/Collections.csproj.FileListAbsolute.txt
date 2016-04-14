@@ -1,0 +1,23 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\Collections\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\Collections\obj\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\Collections\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\Collections\obj\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\Collections\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\Collections\obj\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\Collections\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\Collections\obj\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\Collections\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\Collections\obj\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\Collections\obj\Debug\Collections.pdb

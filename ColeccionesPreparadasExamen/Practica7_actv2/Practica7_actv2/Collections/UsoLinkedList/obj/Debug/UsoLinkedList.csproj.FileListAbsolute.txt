@@ -1,0 +1,43 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Desktop\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Desktop\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe.config
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.exe
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.exe
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\UsoLinkedList.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\UsoLinkedList\obj\Debug\UsoLinkedList.csprojResolveAssemblyReference.cache

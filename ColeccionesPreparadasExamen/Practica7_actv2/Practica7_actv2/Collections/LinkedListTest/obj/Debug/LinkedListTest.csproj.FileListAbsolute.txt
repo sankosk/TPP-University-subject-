@@ -1,0 +1,45 @@
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\obj\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Visual Studio 2015\Projects\Collections\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\obj\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Desktop\TareaYSesion-Esteban-Montes-Morales\Collections\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\LinkedListTest.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\obj\Debug\LinkedListTest.dll
+C:\Users\Esteban\Desktop\Tarea3\Collections\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Collections.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Collections.pdb
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.dll
+C:\Users\EstebanMontesMorales\Documents\Tarea7-EstebanMontes(1)\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\obj\Debug\LinkedListTest.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\LinkedListTest.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\LinkedListTest.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Collections.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\Collections.pdb
+C:\Users\Esteban\Desktop\Practica7_actv2\Practica7_actv2\Collections\LinkedListTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
