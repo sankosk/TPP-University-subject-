@@ -1,0 +1,9 @@
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\TestGenetics.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\TestGenetics.pdb
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\Genetics.exe
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\Genetics.pdb
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\obj\Debug\TestGenetics.csprojResolveAssemblyReference.cache
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\obj\Debug\TestGenetics.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\Genetics\TestGenetics\obj\Debug\TestGenetics.pdb

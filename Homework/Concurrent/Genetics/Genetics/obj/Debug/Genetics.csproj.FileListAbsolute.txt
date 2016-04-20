@@ -1,0 +1,6 @@
+c:\users\esteban\documents\visual studio 2015\Projects\Genetics\Genetics\bin\Debug\Genetics.exe.config
+c:\users\esteban\documents\visual studio 2015\Projects\Genetics\Genetics\bin\Debug\Genetics.exe
+c:\users\esteban\documents\visual studio 2015\Projects\Genetics\Genetics\bin\Debug\Genetics.pdb
+c:\users\esteban\documents\visual studio 2015\Projects\Genetics\Genetics\obj\Debug\Genetics.exe
+c:\users\esteban\documents\visual studio 2015\Projects\Genetics\Genetics\obj\Debug\Genetics.pdb
+C:\Users\Esteban\Documents\Visual Studio 2015\Projects\Genetics\Genetics\obj\Debug\Genetics.csprojResolveAssemblyReference.cache
