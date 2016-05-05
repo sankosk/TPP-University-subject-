@@ -1,0 +1,12 @@
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\uo246305\Documents\Visual Studio 2013\Projects\Examen\Examen\obj\Debug\Examen.pdb
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\obj\Debug\Examen.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\EstebanMontesMorales\Desktop\Examen\Examen\obj\Debug\Examen.pdb
